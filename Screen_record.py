@@ -1,4 +1,4 @@
-# Screen Recording
+# Screen Recording using opencv and numpy
 import cv2 as c
 import numpy as np
 import pyautogui as p
